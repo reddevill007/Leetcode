@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-# My Leetcode
+## My Leetcode
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/inerta/)
 
 ## Background
