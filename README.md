@@ -86,8 +86,11 @@ Else
     - Sort input for O(nlogn) time and O(1) space
 ```
 
-## Suggestions
+## Suggestions and Contributing
 
-Think a question could be more optimised? Wish there was another feature?
-Feel free to open an [issue] with your suggestion!
+Contributions are always welcome!
+Found anerror in any program? Have a suggestion? Have more optamise solution?
+
+Please submit issues/pull requests if you have feedback or would like to contribute.
+
 
