@@ -56,9 +56,16 @@ In addition, you should have a good grasp on common algorithms such as:
 
 All the solutions are written in c++
 
+## Questions
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- | --------------- |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  |  Easy |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | Medium|
+
+
 ## Leetcode Discuss
 
-[Leetcode discuss] is an amazing resource and features previous interview
+[Leetcode discuss](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=) is an amazing resource and features previous interview
 questions, as well as compensation and general career advice.
 
 ## Tips to Consider
