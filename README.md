@@ -89,7 +89,7 @@ Else
 ## Suggestions and Contributing
 
 Contributions are always welcome!
-Found anerror in any program? Have a suggestion? Have more optamise solution?
+Found an error in any program? Have a suggestion? Have more optamise solution?
 
 Please submit issues/pull requests if you have feedback or would like to contribute.
 
