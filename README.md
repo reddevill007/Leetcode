@@ -60,7 +60,12 @@ All the solutions are written in c++
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- | --------------- |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  |  Easy |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | Medium|
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | Medium |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | Hard |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | Medium |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | Medium |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | Easy |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | Medium |
 
 
 ## Leetcode Discuss
